@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6778af95-90e3-4e8c-9d6e-834638e1f5d4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>백준풀이.py</StartupFile>
+    <StartupFile>2588.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,10 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="백준풀이.py" />
+    <Compile Include="10430.py" />
+    <Compile Include="10869.py" />
+    <Compile Include="10998.py" />
+    <Compile Include="2588.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.9" />
