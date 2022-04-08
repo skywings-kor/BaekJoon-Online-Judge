@@ -4,7 +4,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6778af95-90e3-4e8c-9d6e-834638e1f5d4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>2588.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -12,6 +13,7 @@
     <Name>백준풀이</Name>
     <RootNamespace>백준풀이</RootNamespace>
     <InterpreterId>Global|PythonCore|3.9</InterpreterId>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -25,6 +27,12 @@
     <Compile Include="10430.py" />
     <Compile Include="10869.py" />
     <Compile Include="10998.py" />
+    <Compile Include="2480.py" />
+    <Compile Include="2525.py" />
+    <Compile Include="14681.py" />
+    <Compile Include="2753.py" />
+    <Compile Include="9498.py" />
+    <Compile Include="1330.py" />
     <Compile Include="2588.py" />
   </ItemGroup>
   <ItemGroup>
