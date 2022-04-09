@@ -26,10 +26,15 @@
   <ItemGroup>
     <Compile Include="10430.py" />
     <Compile Include="10869.py" />
+    <Compile Include="2741.py" />
+    <Compile Include="15552.py" />
+    <Compile Include="8393.py" />
     <Compile Include="10998.py" />
     <Compile Include="2480.py" />
     <Compile Include="2525.py" />
     <Compile Include="14681.py" />
+    <Compile Include="10950.py" />
+    <Compile Include="2739.py" />
     <Compile Include="2753.py" />
     <Compile Include="9498.py" />
     <Compile Include="1330.py" />
