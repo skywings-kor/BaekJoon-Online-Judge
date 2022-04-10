@@ -26,6 +26,9 @@
   <ItemGroup>
     <Compile Include="10430.py" />
     <Compile Include="10869.py" />
+    <Compile Include="11022.py" />
+    <Compile Include="11021.py" />
+    <Compile Include="2742.py" />
     <Compile Include="2741.py" />
     <Compile Include="15552.py" />
     <Compile Include="8393.py" />
