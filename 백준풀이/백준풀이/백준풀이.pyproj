@@ -24,6 +24,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="15997-kakao.py" />
     <Compile Include="10430.py" />
     <Compile Include="10869.py" />
     <Compile Include="11022.py" />
